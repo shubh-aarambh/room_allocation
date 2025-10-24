@@ -29,5 +29,4 @@ const grantAdminAccess = async (email) => {
   }
 };
 
-// Replace with your email
 grantAdminAccess('shubhshukla1006@gmail.com');
